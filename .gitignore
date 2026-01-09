@@ -1,0 +1,46 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv/
+env/
+
+# Sensitive data - NEVER COMMIT
+.env
+*.env
+credentials.json
+*_credentials.json
+*secret*
+*token*
+*api_key*
+
+# Obsidian workspace (personal settings)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Logs with potentially sensitive data
+# Uncomment if logs contain sensitive info:
+# Logs/*.md
+
+# Temporary files
+*.tmp
+*.temp
+~*
+.DS_Store
+Thumbs.db
+nul
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+
+# Personal data (uncomment if needed)
+# Inbox/*
+# Done/*
