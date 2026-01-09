@@ -2,7 +2,7 @@
 
 > An autonomous AI assistant that monitors files, processes requests, and executes tasks with human-in-the-loop approval - built with Claude Code, Obsidian, and Python.
 
-[![Status](https://img.shields.io/badge/Status-Bronze%20Tier%20Complete-success)](https://github.com/yourusername/ai-employee-vault)
+[![Status](https://img.shields.io/badge/Status-Bronze%20Tier%20Complete-success)](https://github.com/Malikasadjaved/Ai-Employee-Vault)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.13+-blue)](https://python.org)
 
@@ -84,7 +84,7 @@ External World → Watcher → Vault → Claude Code → Human Approval → Exec
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/yourusername/ai-employee-vault.git
+   git clone https://github.com/Malikasadjaved/Ai-Employee-Vault.git
    ```
 
 2. **Set up watcher:**
@@ -126,6 +126,7 @@ External World → Watcher → Vault → Claude Code → Human Approval → Exec
 
 ## 📞 Links
 
+- **GitHub:** [Ai-Employee-Vault](https://github.com/Malikasadjaved/Ai-Employee-Vault)
 - **Hackathon:** [Submit Here](https://forms.gle/JR9T1SJq5rmQyGkGA)
 - **Guide:** [hakathone.md](hakathone.md)
 - **Checklist:** [BRONZE_TIER_CHECKLIST.md](BRONZE_TIER_CHECKLIST.md)

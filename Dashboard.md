@@ -115,6 +115,8 @@
 ### Project 1: Bronze Tier Completion
 - **Status:** 100% COMPLETE ✅✅✅
 - **Completed:** 2026-01-09 14:15:00Z
+- **GitHub:** https://github.com/Malikasadjaved/Ai-Employee-Vault
+- **Tag:** v1.0.0-bronze
 - **Next Steps:** Record demo video and submit
 - **Submission Link:** https://forms.gle/JR9T1SJq5rmQyGkGA
 
